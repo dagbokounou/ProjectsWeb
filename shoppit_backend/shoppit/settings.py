@@ -202,3 +202,4 @@ AUTH_USER_MODEL='core.CustomUser'
 
 
 
+APPEND_SLASH = True
