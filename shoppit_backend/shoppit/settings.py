@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-nb*m%9r2b&k$-%iab=t=3m@mad9p4d$3+*_^vwg6$qt_&gnc85
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["myshoppit-api-mcbo.onrender.com","localhost","127.0.0.1"]
 
 
 # Application definition
