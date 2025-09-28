@@ -1,0 +1,1 @@
+export const getNotifications = (state: any) => state.Storage.notifications

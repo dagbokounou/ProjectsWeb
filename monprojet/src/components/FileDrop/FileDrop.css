@@ -1,0 +1,15 @@
+.upload-zone {
+
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #efefef;
+
+
+}
+
+.upload-zone.dragging {
+
+    background-color: #d14c4c;
+}

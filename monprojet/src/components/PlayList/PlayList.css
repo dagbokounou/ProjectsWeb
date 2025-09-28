@@ -1,0 +1,23 @@
+.PlayList {
+    border: 2px solid var(--bg-primary);
+}
+
+.PlayList .PlayListHeader {
+    background-color: var(--bg-primary);
+}
+
+.PlayList .PlayListHeader a {
+    color: black !important;
+}
+
+.PlayList .PlayListHeader {
+    background-color: red;
+    color: white !important;
+}
+
+.PlayList .PlayListContent {
+    height: calc(100vh - 200 px);
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
